@@ -7,7 +7,7 @@ This project aims to group customers of a retail store based on their purchase b
 To implement a machine learning model that identifies distinct customer segments, helping the business tailor marketing strategies to specific groups.
 
 # 📁 Dataset:
-Kaggle Dataset: Customer Segmentation
+Kaggle Dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 # 🛠️ Tech Stack:
 
